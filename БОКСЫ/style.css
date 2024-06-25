@@ -1,0 +1,19 @@
+.blok {
+    background-color: aqua;
+    border: 5px solid rgb(11, 11, 140);
+    width: 500px;
+    height: 400px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.c1 {
+    background-color: pink;
+    border: 5px solid rgb(116, 8, 8);
+    display: flex;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}

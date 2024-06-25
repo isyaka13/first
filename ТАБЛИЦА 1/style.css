@@ -1,0 +1,20 @@
+th {
+    padding: 6px 12px;
+    color: white;
+    border: 1px solid #000000;
+    text-align: left;
+    background-color: rgb(42, 165, 136);
+}
+.primary {
+    background-color: #000000;
+}
+td {
+    padding: 20px;
+    border: 1px solid #000000;
+    color: black;
+    text-align: left;
+}
+caption {
+    font-size: 30px;
+    font-weight: bold;
+}
